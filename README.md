@@ -1,5 +1,4 @@
 # Building a custom paymaster on zkSync Era
-## Introduction  
 
 In this lesson, you'll learn about paymasters and how you can set them up on zkSync Era to accept any ERC-20 token as gas. This can be useful for your dApps if you want to give users the flexibility to use your site without converting the tokens they have to ETH, hence improving the overall user-experience.  
 
